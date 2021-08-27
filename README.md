@@ -41,7 +41,8 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |
+| Sneha Prem Chandran     | Wed/Fri 1:25pm    | snehaprem03          | https://github.com/snehaprem03/README                    |
           
 
 
