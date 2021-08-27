@@ -42,7 +42,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-          
+| Rohith Natarajan        | Wed/Fri 1:25pm    | rkn5136              | https://github.com/rkn5136/Test         
 
 
 
