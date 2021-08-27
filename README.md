@@ -30,7 +30,7 @@
     - Describe the change again (e.g. "added Matt Beckman to class table")
     - Click the green button "Create pull request"
     - Job done!
-5. (ungraded) pat yourself on the back
+5. (ungraded) pat yourself on the back!
  
 **Important**: Your entry may NOT appear on the class table immediately.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
 
