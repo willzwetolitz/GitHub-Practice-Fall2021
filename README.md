@@ -42,7 +42,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-          
+| Nathan Quint            | Wed/Fri 1:25pm    | nquint16             | https://github.com/nquint16/Temp                         |  
 
 
 
