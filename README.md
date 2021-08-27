@@ -16,7 +16,7 @@
 3. **Add a row** in your copy of the table below with your information 
     - follow the pattern for the vertical bar character (a few keys to the right of "P")... using the "Matthew Beckman" row as a template
     - (2 pts) first & last name  
-    - (2 pt)  class section
+    - (2 pts) class days/time
     - (2 pts) github id  
     - (2 pts) url for GitHub repo you created from your new GitHub profile
     - (2 pts) commit your changes and **submit pull request**
