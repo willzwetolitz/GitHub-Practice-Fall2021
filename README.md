@@ -11,7 +11,7 @@
 2. Go to Dr. Beckman's **GitHub-Practice-Fall2021** repo (that generated this page)  
     - There's a "View on GitHub" button somewhere on this page, or you can just search GitHub for "mdbeckman" and find the repo
     - "Fork" Dr. Beckman's class repo to create your own copy to edit
-    - Your copy of the repo should say "[your-userID] / GitHub-Practice-184" at the top with a tiny note saying it was forked from `mdbeckman`
+    - Your copy of the repo should say "[your-userID] / GitHub-Practice-Fall2021" at the top with a tiny note saying it was forked from `mdbeckman`
     - Click on "README.md" >> Edit (pencil icon in upper right) to edit your copy of the repo
 3. **Add a row** in your copy of the table below with your information 
     - follow the pattern for the vertical bar character (a few keys to the right of "P")... using the "Matthew Beckman" row as a template
@@ -25,7 +25,7 @@
 
 4. Merge your updated copy of the repo with Dr. Beckman's repo...
     - [top of page] >> click "Pull requests" >> click green button "New Pull Request"
-    - GitHub will take you to MY (Dr. Beckman's) copy of the repo (mdbeckman / GitHub-Practice-184) at the top
+    - GitHub will take you to MY (Dr. Beckman's) copy of the repo (mdbeckman / GitHub-Practice-Fall2021) at the top
     - Click the green button "Create pull request"
     - Describe the change again (e.g. "added Matt Beckman to class table")
     - Click the green button "Create pull request"
