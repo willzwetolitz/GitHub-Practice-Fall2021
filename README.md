@@ -41,7 +41,8 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Rohith Natarajan        | Wed/Fri 1:25pm    | rkn5136              | https://github.com/rkn5136/Test         
 | Parag   Patel           | Wed/Fri 1:25pm    | pzp5254              | https://github.com/pzp5254/improved-computing-machine    |
 | Nathan Quint            | Wed/Fri 1:25pm    | nquint16             | https://github.com/nquint16/Temp                         |  
 | Kadence Boatman         | Wed/Fri 1:25pm    | kadencebean          | https://github.com/kadencebean/test                      |
