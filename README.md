@@ -41,8 +41,16 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |
+| Sneha Prem Chandran     | Wed/Fri 1:25pm    | snehaprem03          | https://github.com/snehaprem03/README                    |
 | Will Zwetolitz          | Wed/Fri 1:25pm    | willzwetolitz        | https://github.com/willzwetolitz/README.git              |        
+| Rohith Natarajan        | Wed/Fri 1:25pm    | rkn5136              | https://github.com/rkn5136/Test                          |
+| Parag   Patel           | Wed/Fri 1:25pm    | pzp5254              | https://github.com/pzp5254/improved-computing-machine    |
+| Nathan Quint            | Wed/Fri 1:25pm    | nquint16             | https://github.com/nquint16/Temp                         |  
+| Kadence Boatman         | Wed/Fri 1:25pm    | kadencebean          | https://github.com/kadencebean/test                      |
+| Christopher Kramer      | Wed/Fri 1:25pm    | c18kramer            | https://github.com/c18kramer/introtogithub               |  
+| Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+
 
 
 
